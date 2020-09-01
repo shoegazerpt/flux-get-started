@@ -16,11 +16,11 @@ spec:
   values:
     image:
       repository: bitnami/mongodb
-      tag: 4.0.13
+      tag: 4.0.14
     usePassword: false
     persistence:
       enabled: false
-    securityContext:
-      enabled: true
-      fsGroup: 0
-      runAsUser: 0
+    # securityContext:
+    #   enabled: true
+    #   fsGroup: 0
+    #   runAsUser: 0
