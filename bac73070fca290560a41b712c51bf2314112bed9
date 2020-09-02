@@ -1,0 +1,1 @@
+{"jobID":"d79609de-4221-841a-d474-02036dd0f584","spec":{"type":"policy","cause":{"Message":"","User":"Ricardo Fiel \u003crifiel@microsoft.com\u003e"},"spec":{"demo:helmrelease/ghost":{"add":{},"remove":{"locked":"true","locked_msg":"true","locked_user":"true"}}}},"result":null}
