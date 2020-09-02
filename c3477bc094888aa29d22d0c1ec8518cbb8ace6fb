@@ -1,0 +1,1 @@
+{"jobID":"950df02c-93d8-9ab6-281f-755a3d20f99f","spec":{"type":"policy","cause":{"Message":"","User":"Ricardo Fiel \u003crifiel@microsoft.com\u003e"},"spec":{"demo:helmrelease/ghost":{"add":{},"remove":{"automated":"true"}}}},"result":null}
